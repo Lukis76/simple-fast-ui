@@ -1,5 +1,13 @@
 # @simple-fast-ui/badge
 
+## 0.0.5
+
+### Patch Changes
+
+- [`155e38a`](https://github.com/Lukis76/simple-fast-ui/commit/155e38af40f0423dc8c131223ae045203d784175) Thanks [@Lukis76](https://github.com/Lukis76)! - up version publish
+
+- [`d38604e`](https://github.com/Lukis76/simple-fast-ui/commit/d38604e8311018b4719c6203d0e34d6cb0fc2d87) Thanks [@Lukis76](https://github.com/Lukis76)! - up version publish
+
 ## 0.0.4
 
 ### Patch Changes
