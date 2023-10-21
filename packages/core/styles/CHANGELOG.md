@@ -1,5 +1,11 @@
 # @simple-fast-ui/styles
 
+## 0.0.4
+
+### Patch Changes
+
+- [`43c5cf4`](https://github.com/Lukis76/simple-fast-ui/commit/43c5cf4bf3baa12e971b9a9e228745f1eba49d31) Thanks [@Lukis76](https://github.com/Lukis76)! - up version publish
+
 ## 0.0.3
 
 ### Patch Changes

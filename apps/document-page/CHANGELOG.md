@@ -1,5 +1,15 @@
 # @simple-fast-ui/docs
 
+## 0.1.4
+
+### Patch Changes
+
+- [`43c5cf4`](https://github.com/Lukis76/simple-fast-ui/commit/43c5cf4bf3baa12e971b9a9e228745f1eba49d31) Thanks [@Lukis76](https://github.com/Lukis76)! - up version publish
+
+- Updated dependencies [[`43c5cf4`](https://github.com/Lukis76/simple-fast-ui/commit/43c5cf4bf3baa12e971b9a9e228745f1eba49d31)]:
+  - @simple-fast-ui/alert-dialog@0.0.4
+  - @simple-fast-ui/button@0.0.4
+
 ## 0.1.3
 
 ### Patch Changes
