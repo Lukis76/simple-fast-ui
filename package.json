@@ -36,7 +36,7 @@
     "clean:changelogs": "rimraf ./packages/**/**/CHANGELOG.md",
     "ci": "pnpm lint && pnpm format:write && pnpm test && pnpm --filter !@simple-fast-ui/storybook --filter !@simple-fast-ui/docs build",
     "version": "changeset version",
-    "release": "pnpm run lint && pnpm run format:write && pnpm run test && pnpm --filter !@simple-fast-ui/storybook --filter !@simple-fast-ui/docs build && changeset publish",
+    "release": "pnpm run lint && pnpm run format:write && pnpm run test && pnpm --filter !@simple-fast-ui/storybook --filter !@simple-fast-ui/docs build && changeset publish --force",
     "publish": "--filter !@simple-fast-ui/storybook --filter !@simple-fast-ui/docs pnpm publish"
   },
   "keywords": [],
