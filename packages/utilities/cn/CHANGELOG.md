@@ -1,5 +1,11 @@
 # @simple-fast-ui/cn
 
+## 0.0.3
+
+### Patch Changes
+
+- [`7a8a322`](https://github.com/Lukis76/simple-fast-ui/commit/7a8a3227f775d4262b3c92026c6ed9870975e151) Thanks [@Lukis76](https://github.com/Lukis76)! - three first version publish
+
 ## 0.0.2
 
 ### Patch Changes
